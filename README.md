@@ -2,4 +2,4 @@
 
 # Result
 ## quantitative comparision
-![](./4k-HDR/figure/qualitative.pdf)
+![quantitative comparision](https://github.com/clearlon/4K-HDR/blob/main/figure/qualitative.pdf)
