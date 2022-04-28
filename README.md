@@ -2,4 +2,4 @@
 
 # Result
 ## quantitative comparision
-![](/4k-HDR/figute/qualitative.pdf)
+![](./4k-HDR/figure/qualitative.pdf)
