@@ -1,4 +1,4 @@
-# Toward 4K HDR video:A Global Priors Guided Modulation Network for Joint SR-ITM
+# Toward 4K HDR video: A Global Priors Guided Modulation Network for Joint SR-ITM
 The code will be released soon...
 # Result
 ## Figure 1
