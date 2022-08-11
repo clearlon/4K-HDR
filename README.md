@@ -1,5 +1,5 @@
-# Toward 4K HDR video: A Global Priors Guided Modulation Network for Joint SR-ITM
-The code will be released soon...
+# Global Priors Guided Modulation Network for Joint Super-Resolution and Inverse Tone-Mapping
+The code and papaer will be released soon...
 # Result
 ## Figure 1
 ![Performance and speed comparison.](https://github.com/clearlon/4K-HDR/blob/main/figure/fig1.png)
