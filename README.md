@@ -1,4 +1,4 @@
-# ![Global Priors Guided Modulation Network for Joint Super-Resolution and Inverse Tone-Mapping](https://arxiv.org/abs/2208.06885)
+# [Global Priors Guided Modulation Network for Joint Super-Resolution and Inverse Tone-Mapping](https://arxiv.org/abs/2208.06885)
 The source code will be released soon...
 # Result
 ## Figure 1
